@@ -54,6 +54,20 @@ The dashboard is organized into four pages:
 
 Screenshots of each page are in the `/screenshots` folder. The full report file is in `/powerbi`.
 
+### Dashboard Preview
+
+**Overview**
+![Overview](screenshots/overview.png)
+
+**Products & Segments**
+![Products & Segments](screenshots/products_segments.png)
+
+**Trends**
+![Trends](screenshots/trends.png)
+
+**DAX Insights**
+![DAX Insights](screenshots/dax_insights.png)
+
 ## DAX Measures
 
 In addition to the SQL-based analysis, three DAX measures were built directly in Power BI to demonstrate time intelligence:
