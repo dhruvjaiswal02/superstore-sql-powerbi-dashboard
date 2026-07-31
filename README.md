@@ -50,7 +50,7 @@ The dashboard is organized into four pages:
 
 **Trends** — year-over-year revenue growth, combining absolute revenue (bars) with growth rate (line) on a dual axis
 
-**DAX Insights** — key metric cards (Total Revenue, Profit Margin %) and two DAX-driven growth charts: year-over-year and month-over-month
+**DAX Insights** — key metric cards (Total Revenue, Profit Margin %) and a DAX-driven growth chart
 
 Screenshots of each page are in the `/screenshots` folder. The full report file is in `/powerbi`.
 
